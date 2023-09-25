@@ -1,0 +1,22 @@
+.todo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: lightgrey;
+  padding: 20px 15px;
+}
+
+.grey {
+  background-color: rgb(236, 236, 236);
+}
+
+.white {
+  background-color: #fff;
+}
+
+.todo_left,
+.icons {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
